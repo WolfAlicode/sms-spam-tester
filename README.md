@@ -36,7 +36,7 @@ Follow these steps to set up and run the **SMS Bomber**:
 
 ### Clone the Repository:
 ```bash
-git clone https://github.com/yourusername/sms-bomber.git
+git clone https://github.com/WolfAlicode/sms-spam-tester.git
 ```
 
 ### Navigate to the Project Directory:
