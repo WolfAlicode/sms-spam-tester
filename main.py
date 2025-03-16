@@ -2,7 +2,7 @@ import subprocess
 import sys
 def install_requirements():
     try:
-        print(" chck for update")
+        print("Installing and checking for updates...")
         subprocess.run(
             [sys.executable, "-m", "pip", "install", "-r", "requirements.txt"],
             stdout=subprocess.DEVNULL, stderr=subprocess.DEVNULL, check=True
@@ -34,7 +34,6 @@ def main():
 
     console.print(f"Starting {total_calls} API calls using {len(funcs)} different functions...")
 
-    # Use ThreadPoolExecutor along with a progress bar to show the execution status
     with Progress(
         SpinnerColumn(),
         "[progress.description]{task.description}",
