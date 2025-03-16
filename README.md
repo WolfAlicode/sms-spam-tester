@@ -81,7 +81,7 @@ For the full license text, see the `LICENSE` file in the repository or visit [GN
 If you encounter issues, have questions, or want to provide feedback, please:
 
 - Open an issue on the **GitHub repository**.  
-- Contact the maintainer at **[your-email@example.com](mailto:your-email@example.com)**.  
+- Contact the maintainer at **[farisatali12@gmail.com](mailto:your-email@example.com)**.  
 
 ## 🔍 Additional Notes
 
