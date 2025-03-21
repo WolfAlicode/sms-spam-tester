@@ -29,7 +29,7 @@ pip install -r requirements.txt
    ```
 2. وارد پوشه پروژه شوید:
    ```bash
-   cd sms-bomber
+   cd sms-bomber-tester
    ```
 3. اسکریپت را اجرا کنید:
    ```bash
@@ -95,7 +95,7 @@ git clone https://github.com/WolfAlicode/sms-spam-tester.git
 
 ### Navigate to the Project Directory:
 ```bash
-cd sms-bomber
+cd sms-bomber-tester
 ```
 
 ### Run the Script:
